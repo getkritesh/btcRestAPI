@@ -15,45 +15,39 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="D:\projects\Blockchain\micro-service-master\micro-service-master\source\microsvc_controller.cpp">
+    <ClCompile Include="basic_controller.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\Blockchain\micro-service-master\micro-service-master\source\foundation\basic_controller.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\Blockchain\micro-service-master\micro-service-master\source\foundation\network_utils.cpp">
+    <ClCompile Include="microsvc_controller.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\Desktop\Blockchain\blockchain21-master\main.cpp">
+    <ClCompile Include="network_utils.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="user_manager.cpp">
+    <ClCompile Include="block_manager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D:\projects\Blockchain\micro-service-master\micro-service-master\source\foundation\include\basic_controller.hpp">
+    <ClInclude Include="basic_controller.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\projects\Blockchain\micro-service-master\micro-service-master\source\foundation\include\controller.hpp">
+    <ClInclude Include="controller.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\projects\Blockchain\micro-service-master\micro-service-master\source\foundation\include\network_utils.hpp">
+    <ClInclude Include="network_utils.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\projects\Blockchain\micro-service-master\micro-service-master\source\foundation\include\runtime_utils.hpp">
+    <ClInclude Include="std_micro_service.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\projects\Blockchain\micro-service-master\micro-service-master\source\foundation\include\std_micro_service.hpp">
+    <ClInclude Include="block_interrupt_handler.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\projects\Blockchain\micro-service-master\micro-service-master\source\foundation\include\usr_interrupt_handler.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="D:\projects\Blockchain\micro-service-master\micro-service-master\source\microsvc_controller.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="D:\projects\Blockchain\micro-service-master\micro-service-master\source\foundation\include\user_manager.hpp">
+    <ClInclude Include="block_manager.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
