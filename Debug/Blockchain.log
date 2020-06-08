@@ -1,0 +1,32 @@
+﻿  main.cpp
+c:\users\kritesh\onedrive\desktop\blockchain\blockchain21-master\main.cpp(27): warning C4101: 'e': unreferenced local variable
+  basic_controller.cpp
+  d:\vcpkg\installed\x86-windows\include\boost\bind.hpp(41): note: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  network_utils.cpp
+  d:\vcpkg\installed\x86-windows\include\boost\bind.hpp(41): note: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  microsvc_controller.cpp
+  d:\vcpkg\installed\x86-windows\include\boost\bind.hpp(41): note: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+d:\projects\blockchain\micro-service-master\micro-service-master\source\foundation\include\user_manager.hpp(24): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+d:\projects\blockchain\micro-service-master\micro-service-master\source\microsvc_controller.cpp(92): warning C4101: 'e': unreferenced local variable
+  user_manager.cpp
+  d:\vcpkg\installed\x86-windows\include\boost\bind.hpp(41): note: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+d:\projects\blockchain\micro-service-master\micro-service-master\source\foundation\include\user_manager.hpp(24): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\kritesh\source\repos\blockchain\blockchain\user_manager.cpp(5): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  Blockchain.vcxproj -> C:\Users\Kritesh\source\repos\Blockchain\Debug\Blockchain.exe
